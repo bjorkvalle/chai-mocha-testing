@@ -1,0 +1,23 @@
+{
+  "name": "chai-mocha-testing",
+  "version": "1.0.0",
+  "description": "chai mocha setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjorkvalle/chai-mocha-testing.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "bjorkvalle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjorkvalle/chai-mocha-testing/issues"
+  },
+  "homepage": "https://github.com/bjorkvalle/chai-mocha-testing#readme"
+}
